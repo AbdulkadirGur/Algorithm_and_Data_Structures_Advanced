@@ -1,0 +1,12 @@
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\Harddisk\Algorithm_and_Data_Structures_Advanced\Kodlarım\Solution1\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
